@@ -1,10 +1,12 @@
-Deploying WordPress with MySQL on Azure Kubernetes Service (AKS) using PV/PVC and Ingress
+**To follow how to do the deployment step by step follow the medium aritcle in more detail**
+
+**Medium** | https://medium.com/@syed.sas74/deploying-a-wordpress-application-with-mysql-on-aks-using-pv-pvc-and-ingress-via-ui-4f078dc3a2df
+
+**Deploying WordPress with MySQL on Azure Kubernetes Service (AKS) using PV/PVC and Ingress**
 
 This project demonstrates how to deploy a WordPress application with a MySQL database inside an Azure Kubernetes Service (AKS) cluster.
 
 It includes setting up Persistent Storage (PV/PVC) for data retention and configuring an NGINX Ingress Controller for secure, external access.
-
-.
 
 **🚀 Architecture Overview**
 
