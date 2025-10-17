@@ -1,0 +1,1 @@
+# public-wordpress-mysql-k8s-deployment-ingress
